@@ -1,0 +1,56 @@
+body
+{
+	background-color:white;
+}
+	
+h1
+{
+	color:red;
+	font-weight:italic;
+	text-decoration:underline;
+	text-shadow: 0px 0px 5px red;
+	letter-spacing: 0.5em;
+	text-shadow: 2px 2px 5px blue;
+
+}
+	
+h2
+{	
+text-decoration:underline;
+font-weight: 900;
+}
+	
+h3
+{
+display:list-item;
+box-shadow:10px 10px;
+margin:10 auto;
+}
+   
+	
+h4
+{
+	font-family:courier new;
+	color:blue;
+}
+
+.un
+{
+	background-color:red;
+}
+.deux
+{
+	background-color:orange;
+}
+.trois
+{
+	background-color:yellow;
+	}
+
+.quatre
+{
+background-color:pink;}
+	
+	
+	
+	
